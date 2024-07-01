@@ -67,7 +67,8 @@ const locations = [
   { key: "darlingHarbour", location: { lat: -33.87488, lng: 151.1987113 } },
   { key: "barangaroo", location: { lat: -33.8605523, lng: 151.1972205 } },
   { key: "barangaroro", location: { lat: -33.805523, lng: 151.172205 } }
-  { key: "bau", location: { lat: -36.805523, lng: 151.172205 } }
+  { key: "bau", location: { lat: -36.805523, lng: 151.172205 } },
+  { key: "huonf", location: { lat: -36.805523, lng: 151.172205 } }
 ]
 
 const App = () => {
